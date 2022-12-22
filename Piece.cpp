@@ -12,6 +12,8 @@
 // piece, move the piece to that position. Have proper default and user constructors for classes.
 // (10 + 3 marks)
 
+//Mirage Mohammad
+
 #include "Piece.h"
 #include <iostream>
 #include <algorithm>
